@@ -26,9 +26,8 @@ Our team is passionate about **open-source technologies**, and we actively contr
 
 | Project | Description |
 |--------|-------------|
-| `odoo-modules` | Custom Odoo modules developed and maintained by our team. |
-| `odoo-docker` | Dockerized Odoo environments for rapid deployment and testing. |
-| `open-source-tools` | Collection of utilities, tools, and scripts built for developers. |
+| `BizSys` | Customized business solutions built on Odoo modules, developed and maintained by our team. |
+| `EduSys` | Tailored education management solutions developed on top of Odoo, designed and maintained by our team. |
 
 > More projects coming soon. Stay tuned!
 
@@ -36,16 +35,21 @@ Our team is passionate about **open-source technologies**, and we actively contr
 
 ## 🤝 Let's Connect
 
+- 📧 Email: info@sysnova.com
 - 🌐 Website: [http://sysnova.com](http://sysnova.com)
-- 📧 Email: info@sysnova.com  
-- 💼 LinkedIn: *[Your LinkedIn link if available]*  
-- 🛠️ GitHub: You're already here — explore our repos and give them a ⭐ if you find them useful!
 
 ---
 
-## 📃 License
+## 📃 Partnership
 
-Most of our repositories are open-source under the **MIT**, **GPL**, or **LGPL** licenses. Please check the individual repositories for license details.
+<p>
+  <img height="30" src="https://cdn.simpleicons.org/odoo?viewbox=auto"/>
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png/120px-Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png"/>
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hacker_behind_PC.svg/120px-Hacker_behind_PC.svg.png"/>
+  <img height="30" src="https://tektelic.com/wp-content/uploads/38-IoT.svg"/>
+  <img height="30" src="https://avatars.githubusercontent.com/u/13752566?s=200&v=4"/>
+  <img height="30" src="https://idempiere.org/wp-content/uploads/2020/03/cropped-taglinef3-scaled-1.jpg"/>
+</p>
 
 ---
 
