@@ -43,7 +43,7 @@ Our team is passionate about **open-source technologies**, and we actively contr
 ## 📃 Partnership
 
 <p>
-  <img height="30" src="https://cdn.simpleicons.org/odoo?viewbox=auto"/>
+  <img height="30" src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png"/>
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png/120px-Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png"/>
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hacker_behind_PC.svg/120px-Hacker_behind_PC.svg.png"/>
   <img height="30" src="https://tektelic.com/wp-content/uploads/38-IoT.svg"/>
